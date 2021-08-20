@@ -63,8 +63,7 @@ public class MainApp {
 				try {
 					result1 = eld.employeeLoginStatus(email, password);
 				} catch (BusinessException e1) {
-					// TODO Auto-generated catch block
-					e1.printStackTrace();
+					log.error(e1.getMessage());
 				}
 				
 				if(result1==1) {
@@ -131,21 +130,21 @@ public class MainApp {
 									log.info("Enter name:");
 									String name=sc.nextLine();
 									List<Customers> customerList1= new ArrayList<>();
-									customerList= vcs.viewCustomerByName(name);
+									customerList1= vcs.viewCustomerByName(name);
 									customerList1.stream().forEach(System.out::println);
 									break;
 								case 3:
 									log.info("Enter email:");
 									String email1=sc.nextLine();
 									List<Customers> customerList2= new ArrayList<>();
-									customerList= vcs.viewCustomerByName(email1);
+									customerList2= vcs.viewCustomerByemail(email1);
 									customerList2.stream().forEach(System.out::println);
 									break;
 								case 4:
 									log.info("Enter phone Number:");
 									String phoneNo=sc.nextLine();
 									List<Customers> customerList3= new ArrayList<>();
-									customerList= vcs.viewCustomerByName(phoneNo);
+									customerList3= vcs.viewCustomerByPhoneNo(phoneNo);
 									customerList3.stream().forEach(System.out::println);
 									break;
 								case 5:

@@ -1033,3 +1033,317 @@
 [main] 2021-08-20 13:32:05 INFO  com.app.main.MainApp  - 3) Customer registration
 [main] 2021-08-20 13:32:05 INFO  com.app.main.MainApp  - 4) Exit
 [main] 2021-08-20 13:32:05 INFO  com.app.main.MainApp  - Enter your choice (1-4)
+[main] 2021-08-20 13:32:13 INFO  com.app.main.MainApp  - Enter your name
+[main] 2021-08-20 13:32:21 INFO  com.app.main.MainApp  - Enter your email
+[main] 2021-08-20 13:33:44 INFO  com.app.main.MainApp  - Enter password
+[main] 2021-08-20 13:33:51 INFO  com.app.main.MainApp  - Enter your phone number
+[main] 2021-08-20 13:46:26 INFO  com.app.main.MainApp  - Registration sucessfull... for further process please login to app
+[main] 2021-08-20 13:46:26 INFO  com.app.main.MainApp  - 1) Employee login
+[main] 2021-08-20 13:46:26 INFO  com.app.main.MainApp  - 2) Customer login
+[main] 2021-08-20 13:46:26 INFO  com.app.main.MainApp  - 3) Customer registration
+[main] 2021-08-20 13:46:26 INFO  com.app.main.MainApp  - 4) Exit
+[main] 2021-08-20 13:46:26 INFO  com.app.main.MainApp  - Enter your choice (1-4)
+[main] 2021-08-20 13:46:31 INFO  com.app.main.MainApp  - Enter email id:
+[main] 2021-08-20 13:46:43 INFO  com.app.main.MainApp  - Enter Password
+[main] 2021-08-20 13:46:48 ERROR com.app.main.MainApp  - invalid emailmkrishna@gmail.com or passwordmkrishna123
+[main] 2021-08-20 13:46:48 INFO  com.app.main.MainApp  - 1) Employee login
+[main] 2021-08-20 13:46:48 INFO  com.app.main.MainApp  - 2) Customer login
+[main] 2021-08-20 13:46:48 INFO  com.app.main.MainApp  - 3) Customer registration
+[main] 2021-08-20 13:46:48 INFO  com.app.main.MainApp  - 4) Exit
+[main] 2021-08-20 13:46:48 INFO  com.app.main.MainApp  - Enter your choice (1-4)
+[main] 2021-08-20 13:48:35 INFO  com.app.main.MainApp  - Enter email id:
+[main] 2021-08-20 13:48:43 INFO  com.app.main.MainApp  - Enter Password
+[main] 2021-08-20 13:48:50 INFO  com.app.main.MainApp  - Login Successfully
+[main] 2021-08-20 13:48:50 INFO  com.app.main.MainApp  - Welcom mkrishn@gmail.comwhat you wanna do today ?
+[main] 2021-08-20 13:48:50 INFO  com.app.main.MainApp  - 1) Search products
+[main] 2021-08-20 13:48:50 INFO  com.app.main.MainApp  - 2) View cart
+[main] 2021-08-20 13:48:50 INFO  com.app.main.MainApp  - 3) update status of order
+[main] 2021-08-20 13:48:50 INFO  com.app.main.MainApp  - 4) logout
+[main] 2021-08-20 13:48:50 INFO  com.app.main.MainApp  - Enter your Choice
+[main] 2021-08-20 13:48:56 INFO  com.app.main.MainApp  - 1) Display all products
+[main] 2021-08-20 13:48:56 INFO  com.app.main.MainApp  - 2) Display product by product id
+[main] 2021-08-20 13:48:56 INFO  com.app.main.MainApp  - 3) Display the products by product name
+[main] 2021-08-20 13:48:56 INFO  com.app.main.MainApp  - 4) Display the products by type of product
+[main] 2021-08-20 13:48:56 INFO  com.app.main.MainApp  - 5) Go to previous menu
+[main] 2021-08-20 13:48:56 INFO  com.app.main.MainApp  - Enter your choice
+[main] 2021-08-20 13:48:58 INFO  com.app.main.MainApp  - Do you want to add product to cart then press 1
+[main] 2021-08-20 13:49:00 INFO  com.app.main.MainApp  - 1) Display all products
+[main] 2021-08-20 13:49:00 INFO  com.app.main.MainApp  - 2) Display product by product id
+[main] 2021-08-20 13:49:00 INFO  com.app.main.MainApp  - 3) Display the products by product name
+[main] 2021-08-20 13:49:00 INFO  com.app.main.MainApp  - 4) Display the products by type of product
+[main] 2021-08-20 13:49:00 INFO  com.app.main.MainApp  - 5) Go to previous menu
+[main] 2021-08-20 13:49:00 INFO  com.app.main.MainApp  - Enter your choice
+[main] 2021-08-20 13:49:06 INFO  com.app.main.MainApp  - Enter product id
+[main] 2021-08-20 13:49:08 INFO  com.app.main.MainApp  - Do you want to add product to cart then press 1
+[main] 2021-08-20 13:49:12 INFO  com.app.main.MainApp  - Enter product id that need to add to cart
+[main] 2021-08-20 13:49:15 INFO  com.app.main.MainApp  - Sucessfully added to cart
+[main] 2021-08-20 13:49:15 INFO  com.app.main.MainApp  - 1) Display all products
+[main] 2021-08-20 13:49:15 INFO  com.app.main.MainApp  - 2) Display product by product id
+[main] 2021-08-20 13:49:15 INFO  com.app.main.MainApp  - 3) Display the products by product name
+[main] 2021-08-20 13:49:15 INFO  com.app.main.MainApp  - 4) Display the products by type of product
+[main] 2021-08-20 13:49:15 INFO  com.app.main.MainApp  - 5) Go to previous menu
+[main] 2021-08-20 13:49:15 INFO  com.app.main.MainApp  - Enter your choice
+[main] 2021-08-20 13:49:21 INFO  com.app.main.MainApp  - Please visit again
+[main] 2021-08-20 13:49:21 INFO  com.app.main.MainApp  - Do you want to add product to cart then press 1
+[main] 2021-08-20 13:49:23 INFO  com.app.main.MainApp  - 1) Search products
+[main] 2021-08-20 13:49:23 INFO  com.app.main.MainApp  - 2) View cart
+[main] 2021-08-20 13:49:23 INFO  com.app.main.MainApp  - 3) update status of order
+[main] 2021-08-20 13:49:23 INFO  com.app.main.MainApp  - 4) logout
+[main] 2021-08-20 13:49:23 INFO  com.app.main.MainApp  - Enter your Choice
+[main] 2021-08-20 13:49:26 INFO  com.app.main.MainApp  - Total price of products in cart
+[main] 2021-08-20 13:49:26 INFO  com.app.main.MainApp  - 800.0
+[main] 2021-08-20 13:49:26 INFO  com.app.main.MainApp  - If you want to order a product please enter 1
+[main] 2021-08-20 13:49:29 INFO  com.app.main.MainApp  - Enter product id to order the product
+[main] 2021-08-20 13:49:33 INFO  com.app.main.MainApp  - Order placed
+[main] 2021-08-20 13:49:33 INFO  com.app.main.MainApp  - 1) Search products
+[main] 2021-08-20 13:49:33 INFO  com.app.main.MainApp  - 2) View cart
+[main] 2021-08-20 13:49:33 INFO  com.app.main.MainApp  - 3) update status of order
+[main] 2021-08-20 13:49:33 INFO  com.app.main.MainApp  - 4) logout
+[main] 2021-08-20 13:49:33 INFO  com.app.main.MainApp  - Enter your Choice
+[main] 2021-08-20 13:49:38 INFO  com.app.main.MainApp  - order Status Updated
+[main] 2021-08-20 13:49:38 INFO  com.app.main.MainApp  - 1) Search products
+[main] 2021-08-20 13:49:38 INFO  com.app.main.MainApp  - 2) View cart
+[main] 2021-08-20 13:49:38 INFO  com.app.main.MainApp  - 3) update status of order
+[main] 2021-08-20 13:49:38 INFO  com.app.main.MainApp  - 4) logout
+[main] 2021-08-20 13:49:38 INFO  com.app.main.MainApp  - Enter your Choice
+[main] 2021-08-20 13:50:28 INFO  com.app.main.MainApp  - Thank you for using the app please visite the again
+[main] 2021-08-20 13:50:28 INFO  com.app.main.MainApp  - 1) Employee login
+[main] 2021-08-20 13:50:28 INFO  com.app.main.MainApp  - 2) Customer login
+[main] 2021-08-20 13:50:28 INFO  com.app.main.MainApp  - 3) Customer registration
+[main] 2021-08-20 13:50:28 INFO  com.app.main.MainApp  - 4) Exit
+[main] 2021-08-20 13:50:28 INFO  com.app.main.MainApp  - Enter your choice (1-4)
+[main] 2021-08-20 13:50:51 INFO  com.app.main.MainApp  - Enter your name
+[main] 2021-08-20 13:50:57 INFO  com.app.main.MainApp  - Enter your email
+[main] 2021-08-20 13:51:05 INFO  com.app.main.MainApp  - Enter password
+[main] 2021-08-20 13:51:12 INFO  com.app.main.MainApp  - Enter your phone number
+[main] 2021-08-20 13:51:17 INFO  com.app.main.MainApp  - Registration sucessfull... for further process please login to app
+[main] 2021-08-20 13:51:17 INFO  com.app.main.MainApp  - 1) Employee login
+[main] 2021-08-20 13:51:17 INFO  com.app.main.MainApp  - 2) Customer login
+[main] 2021-08-20 13:51:17 INFO  com.app.main.MainApp  - 3) Customer registration
+[main] 2021-08-20 13:51:17 INFO  com.app.main.MainApp  - 4) Exit
+[main] 2021-08-20 13:51:17 INFO  com.app.main.MainApp  - Enter your choice (1-4)
+[main] 2021-08-20 13:51:21 INFO  com.app.main.MainApp  - Enter email id:
+[main] 2021-08-20 13:51:30 INFO  com.app.main.MainApp  - Enter Password
+[main] 2021-08-20 13:51:36 INFO  com.app.main.MainApp  - Login Successfully
+[main] 2021-08-20 13:51:36 INFO  com.app.main.MainApp  - Welcom omkar@gmail.comwhat you wanna do today ?
+[main] 2021-08-20 13:51:36 INFO  com.app.main.MainApp  - 1) Search products
+[main] 2021-08-20 13:51:36 INFO  com.app.main.MainApp  - 2) View cart
+[main] 2021-08-20 13:51:36 INFO  com.app.main.MainApp  - 3) update status of order
+[main] 2021-08-20 13:51:36 INFO  com.app.main.MainApp  - 4) logout
+[main] 2021-08-20 13:51:36 INFO  com.app.main.MainApp  - Enter your Choice
+[main] 2021-08-20 13:51:39 INFO  com.app.main.MainApp  - Thank you for using the app please visite the again
+[main] 2021-08-20 13:51:39 INFO  com.app.main.MainApp  - 1) Employee login
+[main] 2021-08-20 13:51:39 INFO  com.app.main.MainApp  - 2) Customer login
+[main] 2021-08-20 13:51:39 INFO  com.app.main.MainApp  - 3) Customer registration
+[main] 2021-08-20 13:51:39 INFO  com.app.main.MainApp  - 4) Exit
+[main] 2021-08-20 13:51:39 INFO  com.app.main.MainApp  - Enter your choice (1-4)
+[main] 2021-08-20 13:51:41 INFO  com.app.main.MainApp  - Enter email id:
+[main] 2021-08-20 13:51:48 INFO  com.app.main.MainApp  - Enter Password
+[main] 2021-08-20 13:51:51 INFO  com.app.main.MainApp  - 1) Employee login
+[main] 2021-08-20 13:51:51 INFO  com.app.main.MainApp  - 2) Customer login
+[main] 2021-08-20 13:51:51 INFO  com.app.main.MainApp  - 3) Customer registration
+[main] 2021-08-20 13:51:51 INFO  com.app.main.MainApp  - 4) Exit
+[main] 2021-08-20 13:51:51 INFO  com.app.main.MainApp  - Enter your choice (1-4)
+[main] 2021-08-20 13:52:43 INFO  com.app.main.MainApp  - welcom to shoping app
+[main] 2021-08-20 13:52:43 INFO  com.app.main.MainApp  - ==================================
+[main] 2021-08-20 13:52:43 INFO  com.app.main.MainApp  - 1) Employee login
+[main] 2021-08-20 13:52:43 INFO  com.app.main.MainApp  - 2) Customer login
+[main] 2021-08-20 13:52:43 INFO  com.app.main.MainApp  - 3) Customer registration
+[main] 2021-08-20 13:52:43 INFO  com.app.main.MainApp  - 4) Exit
+[main] 2021-08-20 13:52:43 INFO  com.app.main.MainApp  - Enter your choice (1-4)
+[main] 2021-08-20 13:53:07 INFO  com.app.main.MainApp  - Enter email id:
+[main] 2021-08-20 13:53:12 INFO  com.app.main.MainApp  - Enter Password
+[main] 2021-08-20 13:53:16 INFO  com.app.main.MainApp  - Login Successfully
+[main] 2021-08-20 13:53:16 INFO  com.app.main.MainApp  - 1) Add products
+[main] 2021-08-20 13:53:16 INFO  com.app.main.MainApp  - 2) view customer
+[main] 2021-08-20 13:53:16 INFO  com.app.main.MainApp  - 3) Update order status 
+[main] 2021-08-20 13:53:16 INFO  com.app.main.MainApp  - 4) log out
+[main] 2021-08-20 13:53:16 INFO  com.app.main.MainApp  - Enter your choice...
+[main] 2021-08-20 13:53:19 INFO  com.app.main.MainApp  - Enter product name
+[main] 2021-08-20 13:53:28 INFO  com.app.main.MainApp  - Enter quantity of product
+[main] 2021-08-20 13:53:32 INFO  com.app.main.MainApp  - Enter price
+[main] 2021-08-20 13:53:35 INFO  com.app.main.MainApp  - Enter product type
+[main] 2021-08-20 13:53:48 INFO  com.app.main.MainApp  - Sucessfully product are added
+[main] 2021-08-20 13:53:48 INFO  com.app.main.MainApp  - 1) Add products
+[main] 2021-08-20 13:53:48 INFO  com.app.main.MainApp  - 2) view customer
+[main] 2021-08-20 13:53:48 INFO  com.app.main.MainApp  - 3) Update order status 
+[main] 2021-08-20 13:53:48 INFO  com.app.main.MainApp  - 4) log out
+[main] 2021-08-20 13:53:48 INFO  com.app.main.MainApp  - Enter your choice...
+[main] 2021-08-20 13:53:52 INFO  com.app.main.MainApp  - 1) View Customer by ID
+[main] 2021-08-20 13:53:52 INFO  com.app.main.MainApp  - 2) View Customer by name
+[main] 2021-08-20 13:53:52 INFO  com.app.main.MainApp  - 3) View Customer by email
+[main] 2021-08-20 13:53:52 INFO  com.app.main.MainApp  - 4) View Customer by phone number
+[main] 2021-08-20 13:53:52 INFO  com.app.main.MainApp  - 5) Go to previous menu
+[main] 2021-08-20 13:53:52 INFO  com.app.main.MainApp  - Enter your Choice 
+[main] 2021-08-20 13:53:55 INFO  com.app.main.MainApp  - Enter id:
+[main] 2021-08-20 13:53:56 INFO  com.app.main.MainApp  - 1) View Customer by ID
+[main] 2021-08-20 13:53:56 INFO  com.app.main.MainApp  - 2) View Customer by name
+[main] 2021-08-20 13:53:56 INFO  com.app.main.MainApp  - 3) View Customer by email
+[main] 2021-08-20 13:53:56 INFO  com.app.main.MainApp  - 4) View Customer by phone number
+[main] 2021-08-20 13:53:56 INFO  com.app.main.MainApp  - 5) Go to previous menu
+[main] 2021-08-20 13:53:56 INFO  com.app.main.MainApp  - Enter your Choice 
+[main] 2021-08-20 13:54:01 INFO  com.app.main.MainApp  - Enter name:
+[main] 2021-08-20 13:54:06 INFO  com.app.main.MainApp  - 1) View Customer by ID
+[main] 2021-08-20 13:54:06 INFO  com.app.main.MainApp  - 2) View Customer by name
+[main] 2021-08-20 13:54:06 INFO  com.app.main.MainApp  - 3) View Customer by email
+[main] 2021-08-20 13:54:06 INFO  com.app.main.MainApp  - 4) View Customer by phone number
+[main] 2021-08-20 13:54:06 INFO  com.app.main.MainApp  - 5) Go to previous menu
+[main] 2021-08-20 13:54:06 INFO  com.app.main.MainApp  - Enter your Choice 
+[main] 2021-08-20 13:55:47 INFO  com.app.main.MainApp  - Enter name:
+[main] 2021-08-20 13:55:49 INFO  com.app.main.MainApp  - 1) View Customer by ID
+[main] 2021-08-20 13:55:49 INFO  com.app.main.MainApp  - 2) View Customer by name
+[main] 2021-08-20 13:55:49 INFO  com.app.main.MainApp  - 3) View Customer by email
+[main] 2021-08-20 13:55:49 INFO  com.app.main.MainApp  - 4) View Customer by phone number
+[main] 2021-08-20 13:55:49 INFO  com.app.main.MainApp  - 5) Go to previous menu
+[main] 2021-08-20 13:55:49 INFO  com.app.main.MainApp  - Enter your Choice 
+[main] 2021-08-20 13:55:53 INFO  com.app.main.MainApp  - Enter email:
+[main] 2021-08-20 13:55:58 INFO  com.app.main.MainApp  - Invalid name entry
+[main] 2021-08-20 13:55:58 INFO  com.app.main.MainApp  - 1) View Customer by ID
+[main] 2021-08-20 13:55:58 INFO  com.app.main.MainApp  - 2) View Customer by name
+[main] 2021-08-20 13:55:58 INFO  com.app.main.MainApp  - 3) View Customer by email
+[main] 2021-08-20 13:55:58 INFO  com.app.main.MainApp  - 4) View Customer by phone number
+[main] 2021-08-20 13:55:58 INFO  com.app.main.MainApp  - 5) Go to previous menu
+[main] 2021-08-20 13:55:58 INFO  com.app.main.MainApp  - Enter your Choice 
+[main] 2021-08-20 13:56:07 INFO  com.app.main.MainApp  - Enter phone Number:
+[main] 2021-08-20 13:56:24 INFO  com.app.main.MainApp  - Invalid name entry
+[main] 2021-08-20 13:56:24 INFO  com.app.main.MainApp  - 1) View Customer by ID
+[main] 2021-08-20 13:56:24 INFO  com.app.main.MainApp  - 2) View Customer by name
+[main] 2021-08-20 13:56:24 INFO  com.app.main.MainApp  - 3) View Customer by email
+[main] 2021-08-20 13:56:24 INFO  com.app.main.MainApp  - 4) View Customer by phone number
+[main] 2021-08-20 13:56:24 INFO  com.app.main.MainApp  - 5) Go to previous menu
+[main] 2021-08-20 13:56:24 INFO  com.app.main.MainApp  - Enter your Choice 
+[main] 2021-08-20 13:57:24 INFO  com.app.main.MainApp  - Enter phone Number:
+[main] 2021-08-20 13:57:26 INFO  com.app.main.MainApp  - Invalid name entry
+[main] 2021-08-20 13:57:26 INFO  com.app.main.MainApp  - 1) View Customer by ID
+[main] 2021-08-20 13:57:26 INFO  com.app.main.MainApp  - 2) View Customer by name
+[main] 2021-08-20 13:57:26 INFO  com.app.main.MainApp  - 3) View Customer by email
+[main] 2021-08-20 13:57:26 INFO  com.app.main.MainApp  - 4) View Customer by phone number
+[main] 2021-08-20 13:57:26 INFO  com.app.main.MainApp  - 5) Go to previous menu
+[main] 2021-08-20 13:57:26 INFO  com.app.main.MainApp  - Enter your Choice 
+[main] 2021-08-20 13:57:30 INFO  com.app.main.MainApp  - Enter phone Number:
+[main] 2021-08-20 13:57:35 INFO  com.app.main.MainApp  - Invalid name entry
+[main] 2021-08-20 13:57:35 INFO  com.app.main.MainApp  - 1) View Customer by ID
+[main] 2021-08-20 13:57:35 INFO  com.app.main.MainApp  - 2) View Customer by name
+[main] 2021-08-20 13:57:35 INFO  com.app.main.MainApp  - 3) View Customer by email
+[main] 2021-08-20 13:57:35 INFO  com.app.main.MainApp  - 4) View Customer by phone number
+[main] 2021-08-20 13:57:35 INFO  com.app.main.MainApp  - 5) Go to previous menu
+[main] 2021-08-20 13:57:35 INFO  com.app.main.MainApp  - Enter your Choice 
+[main] 2021-08-20 13:58:01 INFO  com.app.main.MainApp  - welcom to shoping app
+[main] 2021-08-20 13:58:01 INFO  com.app.main.MainApp  - ==================================
+[main] 2021-08-20 13:58:01 INFO  com.app.main.MainApp  - 1) Employee login
+[main] 2021-08-20 13:58:01 INFO  com.app.main.MainApp  - 2) Customer login
+[main] 2021-08-20 13:58:01 INFO  com.app.main.MainApp  - 3) Customer registration
+[main] 2021-08-20 13:58:01 INFO  com.app.main.MainApp  - 4) Exit
+[main] 2021-08-20 13:58:01 INFO  com.app.main.MainApp  - Enter your choice (1-4)
+[main] 2021-08-20 13:58:04 INFO  com.app.main.MainApp  - Enter email id:
+[main] 2021-08-20 13:58:12 INFO  com.app.main.MainApp  - Enter Password
+[main] 2021-08-20 13:58:16 INFO  com.app.main.MainApp  - Login Successfully
+[main] 2021-08-20 13:58:16 INFO  com.app.main.MainApp  - 1) Add products
+[main] 2021-08-20 13:58:16 INFO  com.app.main.MainApp  - 2) view customer
+[main] 2021-08-20 13:58:16 INFO  com.app.main.MainApp  - 3) Update order status 
+[main] 2021-08-20 13:58:16 INFO  com.app.main.MainApp  - 4) log out
+[main] 2021-08-20 13:58:16 INFO  com.app.main.MainApp  - Enter your choice...
+[main] 2021-08-20 13:58:18 INFO  com.app.main.MainApp  - 1) View Customer by ID
+[main] 2021-08-20 13:58:18 INFO  com.app.main.MainApp  - 2) View Customer by name
+[main] 2021-08-20 13:58:18 INFO  com.app.main.MainApp  - 3) View Customer by email
+[main] 2021-08-20 13:58:18 INFO  com.app.main.MainApp  - 4) View Customer by phone number
+[main] 2021-08-20 13:58:18 INFO  com.app.main.MainApp  - 5) Go to previous menu
+[main] 2021-08-20 13:58:18 INFO  com.app.main.MainApp  - Enter your Choice 
+[main] 2021-08-20 13:58:21 INFO  com.app.main.MainApp  - Enter phone Number:
+[main] 2021-08-20 13:58:25 INFO  com.app.main.MainApp  - 1) View Customer by ID
+[main] 2021-08-20 13:58:25 INFO  com.app.main.MainApp  - 2) View Customer by name
+[main] 2021-08-20 13:58:25 INFO  com.app.main.MainApp  - 3) View Customer by email
+[main] 2021-08-20 13:58:25 INFO  com.app.main.MainApp  - 4) View Customer by phone number
+[main] 2021-08-20 13:58:25 INFO  com.app.main.MainApp  - 5) Go to previous menu
+[main] 2021-08-20 13:58:25 INFO  com.app.main.MainApp  - Enter your Choice 
+[main] 2021-08-20 13:58:51 INFO  com.app.main.MainApp  - welcom to shoping app
+[main] 2021-08-20 13:58:51 INFO  com.app.main.MainApp  - ==================================
+[main] 2021-08-20 13:58:51 INFO  com.app.main.MainApp  - 1) Employee login
+[main] 2021-08-20 13:58:51 INFO  com.app.main.MainApp  - 2) Customer login
+[main] 2021-08-20 13:58:51 INFO  com.app.main.MainApp  - 3) Customer registration
+[main] 2021-08-20 13:58:51 INFO  com.app.main.MainApp  - 4) Exit
+[main] 2021-08-20 13:58:51 INFO  com.app.main.MainApp  - Enter your choice (1-4)
+[main] 2021-08-20 13:58:57 INFO  com.app.main.MainApp  - Enter email id:
+[main] 2021-08-20 13:59:06 INFO  com.app.main.MainApp  - Enter Password
+[main] 2021-08-20 13:59:11 INFO  com.app.main.MainApp  - Login Successfully
+[main] 2021-08-20 13:59:11 INFO  com.app.main.MainApp  - 1) Add products
+[main] 2021-08-20 13:59:11 INFO  com.app.main.MainApp  - 2) view customer
+[main] 2021-08-20 13:59:11 INFO  com.app.main.MainApp  - 3) Update order status 
+[main] 2021-08-20 13:59:11 INFO  com.app.main.MainApp  - 4) log out
+[main] 2021-08-20 13:59:11 INFO  com.app.main.MainApp  - Enter your choice...
+[main] 2021-08-20 13:59:14 INFO  com.app.main.MainApp  - 1) View Customer by ID
+[main] 2021-08-20 13:59:14 INFO  com.app.main.MainApp  - 2) View Customer by name
+[main] 2021-08-20 13:59:14 INFO  com.app.main.MainApp  - 3) View Customer by email
+[main] 2021-08-20 13:59:14 INFO  com.app.main.MainApp  - 4) View Customer by phone number
+[main] 2021-08-20 13:59:14 INFO  com.app.main.MainApp  - 5) Go to previous menu
+[main] 2021-08-20 13:59:14 INFO  com.app.main.MainApp  - Enter your Choice 
+[main] 2021-08-20 13:59:16 INFO  com.app.main.MainApp  - Enter phone Number:
+[main] 2021-08-20 13:59:20 INFO  com.app.main.MainApp  - 1) View Customer by ID
+[main] 2021-08-20 13:59:20 INFO  com.app.main.MainApp  - 2) View Customer by name
+[main] 2021-08-20 13:59:20 INFO  com.app.main.MainApp  - 3) View Customer by email
+[main] 2021-08-20 13:59:20 INFO  com.app.main.MainApp  - 4) View Customer by phone number
+[main] 2021-08-20 13:59:20 INFO  com.app.main.MainApp  - 5) Go to previous menu
+[main] 2021-08-20 13:59:20 INFO  com.app.main.MainApp  - Enter your Choice 
+[main] 2021-08-20 13:59:25 INFO  com.app.main.MainApp  - Enter id:
+[main] 2021-08-20 13:59:28 INFO  com.app.main.MainApp  - 1) View Customer by ID
+[main] 2021-08-20 13:59:28 INFO  com.app.main.MainApp  - 2) View Customer by name
+[main] 2021-08-20 13:59:28 INFO  com.app.main.MainApp  - 3) View Customer by email
+[main] 2021-08-20 13:59:28 INFO  com.app.main.MainApp  - 4) View Customer by phone number
+[main] 2021-08-20 13:59:28 INFO  com.app.main.MainApp  - 5) Go to previous menu
+[main] 2021-08-20 13:59:28 INFO  com.app.main.MainApp  - Enter your Choice 
+[main] 2021-08-20 13:59:32 INFO  com.app.main.MainApp  - Enter name:
+[main] 2021-08-20 13:59:36 INFO  com.app.main.MainApp  - 1) View Customer by ID
+[main] 2021-08-20 13:59:36 INFO  com.app.main.MainApp  - 2) View Customer by name
+[main] 2021-08-20 13:59:36 INFO  com.app.main.MainApp  - 3) View Customer by email
+[main] 2021-08-20 13:59:36 INFO  com.app.main.MainApp  - 4) View Customer by phone number
+[main] 2021-08-20 13:59:36 INFO  com.app.main.MainApp  - 5) Go to previous menu
+[main] 2021-08-20 13:59:36 INFO  com.app.main.MainApp  - Enter your Choice 
+[main] 2021-08-20 13:59:42 INFO  com.app.main.MainApp  - Enter phone Number:
+[main] 2021-08-20 13:59:48 INFO  com.app.main.MainApp  - invalid phone number
+[main] 2021-08-20 14:00:58 INFO  com.app.main.MainApp  - welcom to shoping app
+[main] 2021-08-20 14:00:58 INFO  com.app.main.MainApp  - ==================================
+[main] 2021-08-20 14:00:58 INFO  com.app.main.MainApp  - 1) Employee login
+[main] 2021-08-20 14:00:58 INFO  com.app.main.MainApp  - 2) Customer login
+[main] 2021-08-20 14:00:58 INFO  com.app.main.MainApp  - 3) Customer registration
+[main] 2021-08-20 14:00:58 INFO  com.app.main.MainApp  - 4) Exit
+[main] 2021-08-20 14:00:58 INFO  com.app.main.MainApp  - Enter your choice (1-4)
+[main] 2021-08-20 14:01:04 INFO  com.app.main.MainApp  - Enter email id:
+[main] 2021-08-20 14:01:10 INFO  com.app.main.MainApp  - Enter Password
+[main] 2021-08-20 14:01:14 INFO  com.app.main.MainApp  - Login Successfully
+[main] 2021-08-20 14:01:14 INFO  com.app.main.MainApp  - 1) Add products
+[main] 2021-08-20 14:01:14 INFO  com.app.main.MainApp  - 2) view customer
+[main] 2021-08-20 14:01:14 INFO  com.app.main.MainApp  - 3) Update order status 
+[main] 2021-08-20 14:01:14 INFO  com.app.main.MainApp  - 4) log out
+[main] 2021-08-20 14:01:14 INFO  com.app.main.MainApp  - Enter your choice...
+[main] 2021-08-20 14:01:20 INFO  com.app.main.MainApp  - 1) View Customer by ID
+[main] 2021-08-20 14:01:20 INFO  com.app.main.MainApp  - 2) View Customer by name
+[main] 2021-08-20 14:01:20 INFO  com.app.main.MainApp  - 3) View Customer by email
+[main] 2021-08-20 14:01:20 INFO  com.app.main.MainApp  - 4) View Customer by phone number
+[main] 2021-08-20 14:01:20 INFO  com.app.main.MainApp  - 5) Go to previous menu
+[main] 2021-08-20 14:01:20 INFO  com.app.main.MainApp  - Enter your Choice 
+[main] 2021-08-20 14:01:26 INFO  com.app.main.MainApp  - Enter phone Number:
+[main] 2021-08-20 14:01:47 INFO  com.app.main.MainApp  - 1) View Customer by ID
+[main] 2021-08-20 14:01:47 INFO  com.app.main.MainApp  - 2) View Customer by name
+[main] 2021-08-20 14:01:47 INFO  com.app.main.MainApp  - 3) View Customer by email
+[main] 2021-08-20 14:01:47 INFO  com.app.main.MainApp  - 4) View Customer by phone number
+[main] 2021-08-20 14:01:47 INFO  com.app.main.MainApp  - 5) Go to previous menu
+[main] 2021-08-20 14:01:47 INFO  com.app.main.MainApp  - Enter your Choice 
+[main] 2021-08-20 14:01:52 INFO  com.app.main.MainApp  - Enter email:
+[main] 2021-08-20 14:02:01 INFO  com.app.main.MainApp  - 1) View Customer by ID
+[main] 2021-08-20 14:02:01 INFO  com.app.main.MainApp  - 2) View Customer by name
+[main] 2021-08-20 14:02:01 INFO  com.app.main.MainApp  - 3) View Customer by email
+[main] 2021-08-20 14:02:01 INFO  com.app.main.MainApp  - 4) View Customer by phone number
+[main] 2021-08-20 14:02:01 INFO  com.app.main.MainApp  - 5) Go to previous menu
+[main] 2021-08-20 14:02:01 INFO  com.app.main.MainApp  - Enter your Choice 
+[main] 2021-08-20 14:02:45 INFO  com.app.main.MainApp  - Thanku you visiting
+[main] 2021-08-20 14:02:45 INFO  com.app.main.MainApp  - 1) Add products
+[main] 2021-08-20 14:02:45 INFO  com.app.main.MainApp  - 2) view customer
+[main] 2021-08-20 14:02:45 INFO  com.app.main.MainApp  - 3) Update order status 
+[main] 2021-08-20 14:02:45 INFO  com.app.main.MainApp  - 4) log out
+[main] 2021-08-20 14:02:45 INFO  com.app.main.MainApp  - Enter your choice...
+[main] 2021-08-20 14:03:09 INFO  com.app.main.MainApp  - For further details please login again
+[main] 2021-08-20 14:03:09 INFO  com.app.main.MainApp  - 1) Employee login
+[main] 2021-08-20 14:03:09 INFO  com.app.main.MainApp  - 2) Customer login
+[main] 2021-08-20 14:03:09 INFO  com.app.main.MainApp  - 3) Customer registration
+[main] 2021-08-20 14:03:09 INFO  com.app.main.MainApp  - 4) Exit
+[main] 2021-08-20 14:03:09 INFO  com.app.main.MainApp  - Enter your choice (1-4)
