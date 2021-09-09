@@ -6,7 +6,7 @@ online shopping portal(Maven,JDBC)
 Once you clone the repo of online shopping system
 - Open your command line
 - git init
-- git pull https://github.com/sai991/Onlineshoppingjdbcproject.git
+- git pull https://github.com/mouryakrish987/project1.git
 # Dependencies in Online Shopping
 - Maven
 - JDBC driver
