@@ -14,7 +14,7 @@
    
 * Open your command line
 * git init
-* git pull https://github.com/mouryakrish987/project1.git
+* git pull https://github.com/mouryakrish987/Online-Shopping-App.git
 
 # How to run Online Shopping project
 - import all the depenencies and update the maven project
